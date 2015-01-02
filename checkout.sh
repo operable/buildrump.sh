@@ -58,8 +58,8 @@ NBSRC_EXTRA_posix=''
 
 NBSRC_EXTRA_usr=''
 
-GITREPO='https://github.com/rumpkernel/src-netbsd'
-GITREPOPUSH='git@github.com:rumpkernel/src-netbsd'
+GITREPO='https://github.com/operable/src-netbsd'
+GITREPOPUSH='git@github.com:operable/src-netbsd'
 GITREVFILE='.srcgitrev'
 
 checkoutcvs ()
